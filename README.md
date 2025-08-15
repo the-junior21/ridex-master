@@ -1,4 +1,6 @@
 <div align="center">
+## 🚀 Live Demo
+[![View Site](https://the-junior21.github.io/ridex-master/)
 
 
   <br />
